@@ -3,3 +3,4 @@
 | ---- | ---- |
 | Rot  | 5    |
 | Blau | 4    |
+:smiley: :apple: :penguin:
