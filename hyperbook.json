@@ -6,6 +6,9 @@
     "name": "Mike Barkmin",
     "url": "https://barkmin.eu"
   },
+  "colors": {
+    "brand": "#FF00FF"
+  },
   "license": "CC-BY-SA",
   "language": "de",
   "basePath": "/hyperbook-abi2023"
