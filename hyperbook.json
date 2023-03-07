@@ -7,9 +7,7 @@
     "url": "https://barkmin.eu"
   },
   "colors": {
-    "brand": "#FF00FF"
-  },
-  "colors": {
+    "brand": "#FF00FF",
     "brandText": "#FF00FF"
   },
   "license": "CC-BY-SA",
