@@ -4,6 +4,8 @@
 | Rot  | 5    |
 | Blau | 4    |
 :smiley: :apple: :penguin:
+
+
 $$
 f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi
 $$
