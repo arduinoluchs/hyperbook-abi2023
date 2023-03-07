@@ -8,3 +8,4 @@ print s
 s = "sehr sinnvoller kommentar"
 print s
 ```
+![Rechtslage](/test.jpg "Wie ist die rechtslage?")
